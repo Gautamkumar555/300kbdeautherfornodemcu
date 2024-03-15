@@ -1,0 +1,1 @@
+to use this feature download zip and then flash my deauther bin file to your nodemcu after flashing press rst button and go to wifi connect a wifi named m4h4 like name password is devil2in then after connecting go to your favorite browser and search 192.168.4.1 a page will open select wifi name and click start deauthing to star deauther that sit 
